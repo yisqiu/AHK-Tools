@@ -1,4 +1,5 @@
 ;From:https://www.autohotkey.com/boards/viewtopic.php?style=1&t=135271
+;双击资源管理器空白处返回上一级目录
 #Requires AutoHotkey v2
 
 #HotIf IsExplorerUnderCursor()
